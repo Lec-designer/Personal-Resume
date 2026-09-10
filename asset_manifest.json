@@ -1,257 +1,206 @@
 [
   {
-    "file": "assets/media_001.jpg",
-    "mime": "image/jpeg",
-    "size_mib": 0.08
+    "file": "assets-1/media_030.mp4",
+    "size_mib": 15.47
   },
   {
-    "file": "assets/media_002.png",
-    "mime": "image/png",
-    "size_mib": 1.53
-  },
-  {
-    "file": "assets/media_003.png",
-    "mime": "image/png",
-    "size_mib": 0.59
-  },
-  {
-    "file": "assets/media_004.png",
-    "mime": "image/png",
-    "size_mib": 2.0
-  },
-  {
-    "file": "assets/media_005.png",
-    "mime": "image/png",
-    "size_mib": 0.09
-  },
-  {
-    "file": "assets/media_006.png",
-    "mime": "image/png",
-    "size_mib": 0.06
-  },
-  {
-    "file": "assets/media_007.png",
-    "mime": "image/png",
-    "size_mib": 0.02
-  },
-  {
-    "file": "assets/media_008.png",
-    "mime": "image/png",
-    "size_mib": 0.02
-  },
-  {
-    "file": "assets/media_009.png",
-    "mime": "image/png",
-    "size_mib": 0.21
-  },
-  {
-    "file": "assets/media_010.jpg",
-    "mime": "image/jpeg",
-    "size_mib": 0.08
-  },
-  {
-    "file": "assets/media_011.png",
-    "mime": "image/png",
-    "size_mib": 0.32
-  },
-  {
-    "file": "assets/media_012.png",
-    "mime": "image/png",
-    "size_mib": 0.38
-  },
-  {
-    "file": "assets/media_013.png",
-    "mime": "image/png",
-    "size_mib": 0.31
-  },
-  {
-    "file": "assets/media_014.png",
-    "mime": "image/png",
-    "size_mib": 0.36
-  },
-  {
-    "file": "assets/media_015.png",
-    "mime": "image/png",
-    "size_mib": 0.4
-  },
-  {
-    "file": "assets/media_016.png",
-    "mime": "image/png",
-    "size_mib": 0.33
-  },
-  {
-    "file": "assets/media_017.jpg",
-    "mime": "image/jpeg",
-    "size_mib": 2.09
-  },
-  {
-    "file": "assets/media_018.png",
-    "mime": "image/png",
-    "size_mib": 0.86
-  },
-  {
-    "file": "assets/media_019.png",
-    "mime": "image/png",
-    "size_mib": 0.19
-  },
-  {
-    "file": "assets/media_020.jpg",
-    "mime": "image/jpeg",
-    "size_mib": 0.02
-  },
-  {
-    "file": "assets/media_021.jpg",
-    "mime": "image/jpeg",
-    "size_mib": 0.37
-  },
-  {
-    "file": "assets/media_022.png",
-    "mime": "image/png",
-    "size_mib": 0.29
-  },
-  {
-    "file": "assets/media_023.jpg",
-    "mime": "image/jpeg",
-    "size_mib": 0.38
-  },
-  {
-    "file": "assets/media_024.jpg",
-    "mime": "image/jpeg",
-    "size_mib": 0.02
-  },
-  {
-    "file": "assets/media_025.jpg",
-    "mime": "image/jpeg",
-    "size_mib": 0.02
-  },
-  {
-    "file": "assets/media_026.png",
-    "mime": "image/png",
-    "size_mib": 0.25
-  },
-  {
-    "file": "assets/media_027.png",
-    "mime": "image/png",
-    "size_mib": 0.13
-  },
-  {
-    "file": "assets/media_028.png",
-    "mime": "image/png",
-    "size_mib": 0.67
-  },
-  {
-    "file": "assets/media_029.jpg",
-    "mime": "image/jpeg",
-    "size_mib": 0.08
-  },
-  {
-    "file": "assets/media_030.mp4",
-    "mime": "video/mp4",
-    "size_mib": 19.63
-  },
-  {
-    "file": "assets/media_031.png",
-    "mime": "image/png",
-    "size_mib": 0.47
-  },
-  {
-    "file": "assets/media_032.png",
-    "mime": "image/png",
-    "size_mib": 1.33
-  },
-  {
-    "file": "assets/media_033.png",
-    "mime": "image/png",
-    "size_mib": 1.04
-  },
-  {
-    "file": "assets/media_034.png",
-    "mime": "image/png",
-    "size_mib": 1.33
-  },
-  {
-    "file": "assets/media_035.jpg",
-    "mime": "image/jpeg",
-    "size_mib": 1.06
-  },
-  {
-    "file": "assets/media_036.jpg",
-    "mime": "image/jpeg",
-    "size_mib": 0.74
-  },
-  {
-    "file": "assets/media_037.jpg",
-    "mime": "image/jpeg",
-    "size_mib": 1.24
-  },
-  {
-    "file": "assets/media_038.png",
-    "mime": "image/png",
-    "size_mib": 0.1
-  },
-  {
-    "file": "assets/media_039.png",
-    "mime": "image/png",
-    "size_mib": 0.1
-  },
-  {
-    "file": "assets/media_040.png",
-    "mime": "image/png",
-    "size_mib": 0.12
-  },
-  {
-    "file": "assets/media_041.png",
-    "mime": "image/png",
-    "size_mib": 0.16
-  },
-  {
-    "file": "assets/media_042.png",
-    "mime": "image/png",
-    "size_mib": 0.04
-  },
-  {
-    "file": "assets/media_043.png",
-    "mime": "image/png",
-    "size_mib": 0.07
-  },
-  {
-    "file": "assets/media_044.png",
-    "mime": "image/png",
-    "size_mib": 0.37
-  },
-  {
-    "file": "assets/media_045.png",
-    "mime": "image/png",
-    "size_mib": 1.21
-  },
-  {
-    "file": "assets/media_046.png",
-    "mime": "image/png",
+    "file": "assets-1/media_046.png",
     "size_mib": 0.52
   },
   {
-    "file": "assets/media_047.png",
-    "mime": "image/png",
-    "size_mib": 0.34
+    "file": "assets-2/media_051.mp4",
+    "size_mib": 4.36
   },
   {
-    "file": "assets/media_048.png",
-    "mime": "image/png",
+    "file": "assets-2/media_017.jpg",
+    "size_mib": 2.09
+  },
+  {
+    "file": "assets-2/media_004.png",
+    "size_mib": 2.0
+  },
+  {
+    "file": "assets-2/media_002.png",
+    "size_mib": 1.53
+  },
+  {
+    "file": "assets-2/media_032.png",
+    "size_mib": 1.33
+  },
+  {
+    "file": "assets-2/media_034.png",
+    "size_mib": 1.33
+  },
+  {
+    "file": "assets-2/media_037.jpg",
+    "size_mib": 1.24
+  },
+  {
+    "file": "assets-2/media_045.png",
+    "size_mib": 1.21
+  },
+  {
+    "file": "assets-2/media_018.png",
+    "size_mib": 0.86
+  },
+  {
+    "file": "assets-2/media_042.png",
+    "size_mib": 0.04
+  },
+  {
+    "file": "assets-3/media_035.jpg",
+    "size_mib": 1.06
+  },
+  {
+    "file": "assets-3/media_033.png",
+    "size_mib": 1.04
+  },
+  {
+    "file": "assets-3/media_036.jpg",
+    "size_mib": 0.74
+  },
+  {
+    "file": "assets-3/media_028.png",
+    "size_mib": 0.67
+  },
+  {
+    "file": "assets-3/media_003.png",
+    "size_mib": 0.59
+  },
+  {
+    "file": "assets-3/media_031.png",
+    "size_mib": 0.47
+  },
+  {
+    "file": "assets-3/media_015.png",
+    "size_mib": 0.4
+  },
+  {
+    "file": "assets-3/media_012.png",
+    "size_mib": 0.38
+  },
+  {
+    "file": "assets-3/media_023.jpg",
+    "size_mib": 0.38
+  },
+  {
+    "file": "assets-3/media_021.jpg",
+    "size_mib": 0.37
+  },
+  {
+    "file": "assets-3/media_044.png",
+    "size_mib": 0.37
+  },
+  {
+    "file": "assets-3/media_014.png",
+    "size_mib": 0.36
+  },
+  {
+    "file": "assets-3/media_048.png",
     "size_mib": 0.35
   },
   {
-    "file": "assets/media_049.png",
-    "mime": "image/png",
-    "size_mib": 0.23
+    "file": "assets-3/media_047.png",
+    "size_mib": 0.34
   },
   {
-    "file": "assets/media_050.png",
-    "mime": "image/png",
+    "file": "assets-3/media_016.png",
+    "size_mib": 0.33
+  },
+  {
+    "file": "assets-3/media_011.png",
     "size_mib": 0.32
   },
   {
-    "file": "assets/media_051.mp4",
-    "mime": "video/mp4",
-    "size_mib": 9.83
+    "file": "assets-3/media_050.png",
+    "size_mib": 0.32
+  },
+  {
+    "file": "assets-3/media_013.png",
+    "size_mib": 0.31
+  },
+  {
+    "file": "assets-3/media_022.png",
+    "size_mib": 0.29
+  },
+  {
+    "file": "assets-3/media_026.png",
+    "size_mib": 0.25
+  },
+  {
+    "file": "assets-3/media_049.png",
+    "size_mib": 0.23
+  },
+  {
+    "file": "assets-3/media_009.png",
+    "size_mib": 0.21
+  },
+  {
+    "file": "assets-3/media_019.png",
+    "size_mib": 0.19
+  },
+  {
+    "file": "assets-3/media_041.png",
+    "size_mib": 0.16
+  },
+  {
+    "file": "assets-3/media_027.png",
+    "size_mib": 0.13
+  },
+  {
+    "file": "assets-3/media_040.png",
+    "size_mib": 0.12
+  },
+  {
+    "file": "assets-3/media_039.png",
+    "size_mib": 0.1
+  },
+  {
+    "file": "assets-3/media_038.png",
+    "size_mib": 0.1
+  },
+  {
+    "file": "assets-3/media_005.png",
+    "size_mib": 0.09
+  },
+  {
+    "file": "assets-3/media_010.jpg",
+    "size_mib": 0.08
+  },
+  {
+    "file": "assets-3/media_029.jpg",
+    "size_mib": 0.08
+  },
+  {
+    "file": "assets-3/media_001.jpg",
+    "size_mib": 0.08
+  },
+  {
+    "file": "assets-3/media_043.png",
+    "size_mib": 0.07
+  },
+  {
+    "file": "assets-3/media_006.png",
+    "size_mib": 0.06
+  },
+  {
+    "file": "assets-3/media_020.jpg",
+    "size_mib": 0.02
+  },
+  {
+    "file": "assets-3/media_024.jpg",
+    "size_mib": 0.02
+  },
+  {
+    "file": "assets-3/media_025.jpg",
+    "size_mib": 0.02
+  },
+  {
+    "file": "assets-3/media_007.png",
+    "size_mib": 0.02
+  },
+  {
+    "file": "assets-3/media_008.png",
+    "size_mib": 0.02
   }
 ]
